@@ -1,0 +1,11 @@
+{
+	"id": "mark-highlight-plugin",
+	"name": "Mark to Highlight",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Converts ==xxx== to <mark>xxx</mark>.",
+	"author": "Clarke Young",
+	"authorUrl": "https://ahaknow.com",
+	"fundingUrl": "https://ahaknow.com/pricing",
+	"isDesktopOnly": false
+}
