@@ -1,7 +1,7 @@
 {
-	"id": "mark-highlight-plugin",
-	"name": "Mark to Highlight",
-	"version": "1.0.0",
+	"id": "markdown-highlight-html",
+	"name": "Markdown Highlight Tag to HTML Style",
+	"version": "0.0.1",
 	"minAppVersion": "0.12.0",
 	"description": "Converts ==xxx== to <mark>xxx</mark>.",
 	"author": "Clarke Young",
